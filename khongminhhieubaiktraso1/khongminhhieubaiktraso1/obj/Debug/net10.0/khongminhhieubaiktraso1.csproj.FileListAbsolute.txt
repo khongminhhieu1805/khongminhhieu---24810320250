@@ -1,0 +1,14 @@
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\bin\Debug\net10.0\khongminhhieubaiktraso1.exe
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\bin\Debug\net10.0\khongminhhieubaiktraso1.deps.json
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\bin\Debug\net10.0\khongminhhieubaiktraso1.runtimeconfig.json
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\bin\Debug\net10.0\khongminhhieubaiktraso1.dll
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\bin\Debug\net10.0\khongminhhieubaiktraso1.pdb
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\khongminhhieubaiktraso1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\khongminhhieubaiktraso1.AssemblyInfoInputs.cache
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\khongminhhieubaiktraso1.AssemblyInfo.cs
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\khongminhhieubaiktraso1.csproj.CoreCompileInputs.cache
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\khongminhhieubaiktraso1.dll
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\refint\khongminhhieubaiktraso1.dll
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\khongminhhieubaiktraso1.pdb
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\khongminhhieubaiktraso1.genruntimeconfig.cache
+D:\LT.NET\khongminhhieubaiktraso1\khongminhhieubaiktraso1\obj\Debug\net10.0\ref\khongminhhieubaiktraso1.dll
